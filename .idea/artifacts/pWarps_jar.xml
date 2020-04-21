@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pWarps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pWarps_jar</output-path>
+    <root id="archive" name="pWarps.jar">
+      <element id="module-output" name="pWarps" />
+    </root>
+  </artifact>
+</component>

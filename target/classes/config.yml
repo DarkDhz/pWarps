@@ -1,0 +1,17 @@
+max_wp:
+  normal: 1
+  hero: 2
+  galaxy: 3
+  sp: 5
+perms:
+  hero: 'pwarps.max.hero'
+  galaxy: 'pwarps.max.galaxy'
+  sp: 'pwarps.max.sp'
+  unlimited: 'pwarps.max.unlimited'
+  tp_bypass: 'pwarps.admin.bypass'
+max:
+  name: 16
+  desc: 50
+blocked:
+  - minapvp
+  - world_flat

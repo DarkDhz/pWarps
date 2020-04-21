@@ -1,0 +1,8 @@
+name: pWarp
+version: 1.1
+main: pwarps.main.Main
+commands:
+  pwarp:
+    description: Plugin main command
+    usage: /<command>
+    aliases: [pw, playerWarps]
